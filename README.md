@@ -1,4 +1,6 @@
 # 使用方式:
+[文档地址](http://ryansu.gitee.io/utils)
+
 ## 安装
 ```sh
 npm install ryan-utils
